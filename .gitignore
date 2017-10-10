@@ -1,0 +1,11 @@
+.DS_Store
+build/
+*.pbxuser
+*.xcuserstate
+search/\~\$SearchData.xlsx
+*.pyc
+.sass-cache
+django/convergedstorage/media
+django/convergedstorage/published-data
+ios/ConvergedStorage/libraries/chilkat-9.5.0-ios/lib/libchilkatIos.a
+builds/

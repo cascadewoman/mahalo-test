@@ -1,2 +1,2 @@
-# mahalo-test
-short dscription
+# converged-storage-mahalo
+Converged Storage for EMC - Mahalo
